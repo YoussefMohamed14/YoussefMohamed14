@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @YoussefMohamed14
-- 👀 I’m interested in Building Websites
-- 🌱 I’m currently learning C++
+- 👀 I’m interested in Building Backend Websites
+- 🌱 I’m currently learning Node Js
 - 📫 How to reach me ym051618@gmail.com
 
 <!---
